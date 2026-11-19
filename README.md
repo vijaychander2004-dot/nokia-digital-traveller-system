@@ -11,7 +11,8 @@ Every telecom unit that comes in for repair is **scanned at each station**, **up
 
  
 ## 🎬 Demo
-**[▶ Watch the demo video (Google Drive)](PASTE_GOOGLE_DRIVE_LINK_HERE)** 
+**[▶ Watch the demo video (Google Drive)]
+(https://drive.google.com/file/d/1Av8wMvlJE2FuBWLY4IV1tYcjtCXPjyWh/view?usp=drive_link)** 
  
 ## ❗ The problem
 Each **Remote Radio Unit (RRU)** that came in for repair travelled with a **handwritten paper sheet**.
