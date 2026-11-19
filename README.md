@@ -1,4 +1,4 @@
-<img width="3535" height="914" alt="00_hero" src="https://github.com/user-attachments/assets/ed13b0a2-d2fa-4b0e-98bc-abf213e4eca0" /># Digital Traveller System: QR-based Repair Tracking for Nokia
+# Digital Traveller System: QR-based Repair Tracking for Nokia
  
 ### ***Replacing the paper traveller sheet with one QR scan.***
 Every telecom unit that comes in for repair is **scanned at each station**, **updated digitally** and **synced in real time**, so anyone can see its **exact status and full history**.
