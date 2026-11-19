@@ -1,3 +1,4 @@
+ <img width="3535" height="914" alt="00_hero" src="https://github.com/user-attachments/assets/7d78dae9-f819-487b-9d1c-f5dc2aad0902" />
 # Digital Traveller System: QR-based Repair Tracking for Nokia
  
 ### ***Replacing the paper traveller sheet with one QR scan.***
@@ -55,7 +56,7 @@ Alongside this, I built an **automated attendance report** in **Power BI and Exc
 > [!IMPORTANT]
 > ***🔒 Source code is not shared.***
 > ***This project was built for Nokia Repair Centre, and the code is confidential under company policy.*** *This repository is a project showcase only, with the README, screenshots, demo video, write-up and presentation.*
- <img width="3535" height="914" alt="00_hero" src="https://github.com/user-attachments/assets/7d78dae9-f819-487b-9d1c-f5dc2aad0902" />
+
 
 ---
 **Vijay Chander** · *MSc Analytics, TISS Mumbai* · 📧 vijaychander2004@gmail.com
