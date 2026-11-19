@@ -1,4 +1,4 @@
-# Digital Traveller System: QR-based Repair Tracking for Nokia
+<img width="3535" height="914" alt="00_hero" src="https://github.com/user-attachments/assets/ed13b0a2-d2fa-4b0e-98bc-abf213e4eca0" /># Digital Traveller System: QR-based Repair Tracking for Nokia
  
 ### ***Replacing the paper traveller sheet with one QR scan.***
 Every telecom unit that comes in for repair is **scanned at each station**, **updated digitally** and **synced in real time**, so anyone can see its **exact status and full history**.
@@ -6,8 +6,8 @@ Every telecom unit that comes in for repair is **scanned at each station**, **up
 
  
 > 🏢 Built during my **Winter Internship at Nokia Repair Centre, Gurgaon** · *Dec 2025 – Jan 2026*
- 
-![Digital Traveller home and auto-generated PDF traveller](assets/screenshots/00_hero.jpg)
+
+
  
 ## 🎬 Demo
 **[▶ Watch the demo video (Google Drive)](PASTE_GOOGLE_DRIVE_LINK_HERE)** 
@@ -20,16 +20,7 @@ Each **Remote Radio Unit (RRU)** that came in for repair travelled with a **hand
 - It also meant **a lot of paper**.
 ## 💡 What I built
 I **spotted the problem while shadowing repair operations**, **proposed the fix to the Head of Repair Operations**, and **built it in three weeks**:
- 
-```mermaid
-flowchart LR
-  A[QR printed on each RRU] --> B[Scan at station]
-  B --> C[Unit details auto-filled]
-  C --> D[Technician records result]
-  D --> E[Firebase real-time sync]
-  E --> F[Live dashboard / Power BI]
-  E --> G[Auto-generated PDF traveller]
-```
+
  
 **Stations digitised:**
 `RC IN (scan & register)` → `Visual Inspection` → `RAP & Unit Test` → `Debug` → `Deep Tests` → `QC Check` → `Lot QC` → `Dashboard` → `Detach`
@@ -64,7 +55,8 @@ Alongside this, I built an **automated attendance report** in **Power BI and Exc
 > [!IMPORTANT]
 > ***🔒 Source code is not shared.***
 > ***This project was built for Nokia Repair Centre, and the code is confidential under company policy.*** *This repository is a project showcase only, with the README, screenshots, demo video, write-up and presentation.*
- 
+ <img width="3535" height="914" alt="00_hero" src="https://github.com/user-attachments/assets/7d78dae9-f819-487b-9d1c-f5dc2aad0902" />
+
 ---
 **Vijay Chander** · *MSc Analytics, TISS Mumbai* · 📧 vijaychander2004@gmail.com
  
